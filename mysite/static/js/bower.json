@@ -1,0 +1,21 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/xbrightmatterx/djangoTest",
+  "authors": [
+    "Brian Graham <graham.briank@gmail.com>"
+  ],
+  "description": "testServer",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "react": "~0.14.3"
+  }
+}

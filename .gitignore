@@ -1,1 +1,5 @@
 myApp/
+node_modules/
+mysite/static/js/bower_components/
+npm-debug.log
+*.pyc
